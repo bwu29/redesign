@@ -6,7 +6,7 @@ body {
 }
 
 .grid-container {
-    background-color: #3F95CF;
+    background-color: #001f3f;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 10px;
@@ -37,7 +37,7 @@ h2 {
     font-family: 'Courier New', Courier, monospace;
 }
 #black-h2{
-    color: #212529;
+    color: DEE2E6;
 }
 
 
